@@ -1,2 +1,2 @@
-# test
-This is a test with a smile in my face
+# Scaling relations
+This is a Scaling relations code of Asteroseismology with a smile in my face
