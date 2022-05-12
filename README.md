@@ -1,2 +1,2 @@
 # Scaling relations
-This is a Scaling relations code of Asteroseismology with a smile in my face
+This is Scaling relations code of Asteroseismology with a smile in my face
